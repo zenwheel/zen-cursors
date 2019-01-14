@@ -23,7 +23,7 @@ echo -e "Checking Requirements... DONE"
 echo -ne "Making Folders... $BASENAME\\r"
 DIR2X="build/zen/x2"
 DIR1X="build/zen/x1"
-OUTPUT="$(grep --only-matching --perl-regex "(?<=Name\\=).*$" $INDEX)"
+OUTPUT="$(grep --only-matching --perl-regex '(?<=Name=).*$' $INDEX)"
 OUTPUT=${OUTPUT// /_}
 mkdir -p "$DIR2X"
 mkdir -p "$DIR1X"
