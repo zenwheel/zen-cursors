@@ -1,54 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32px"
-   height="32px"
-   viewBox="0 0 24 24"
-   version="1.1"
-   id="svg2"
-   inkscape:version="0.91 r"
-   sodipodi:docname="progress-23.svg">
-  <metadata
-     id="metadata13">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs11" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview9" />
-  <g
-     id="surface1">
-    <path
-       style="fill-rule:nonzero;fill:#353535;fill-opacity:1;stroke-width:2.000026;stroke-linecap:butt;stroke-linejoin:round;stroke:#ececec;stroke-opacity:1;stroke-miterlimit:4;"
-       d="M 9 9 L 9 42.614583 L 9.927083 42.229167 C 15.166667 40.03125 21.21875 42.197917 23.885417 47.21875 L 25.822917 46.40625 C 24.114583 40.979167 26.8125 35.145833 32.052083 32.947917 L 32.979167 32.5625 Z M 9 9 "
-       transform="matrix(0.375,0,0,0.375,0,0)"
-       id="path5" />
-    <path
-       style=" stroke:none;fill-rule:nonzero;fill:rgb(42.352941%,44.313725%,76.862745%);fill-opacity:1;"
-       d="M 13.507812 14.164062 C 12.667969 14.707031 12.035156 15.550781 11.765625 16.558594 C 11.332031 18.167969 11.917969 19.882812 13.238281 20.898438 C 14.558594 21.914062 16.371094 22.03125 17.8125 21.199219 L 17.0625 19.898438 C 16.140625 20.429688 14.996094 20.355469 14.152344 19.707031 C 13.308594 19.058594 12.9375 17.972656 13.214844 16.945312 C 13.488281 15.917969 14.351562 15.164062 15.40625 15.023438 C 16.460938 14.882812 17.492188 15.390625 18.023438 16.3125 L 16.722656 17.0625 L 19.796875 17.886719 L 20.621094 14.8125 L 19.320312 15.5625 C 18.488281 14.117188 16.863281 13.320312 15.210938 13.535156 C 14.589844 13.617188 14.011719 13.835938 13.507812 14.164062 Z M 13.507812 14.164062 "
-       id="path7" />
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="35" height="35" viewBox="0, 0, 35, 35">
+  <g id="Background">
+    <rect x="0" y="0" width="35" height="35" fill="#000000" fill-opacity="0"/>
+  </g>
+  <defs>
+    <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="18" y1="15" x2="18" y2="33">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.56"/>
+      <stop offset="0.794" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Page-1">
+    <path d="M8,17.422 L8,1.407 L19.591,13.026 L12.55,13.026 L12.399,13.15 L8,17.422 z" fill="#FFFFFF" id="point-border"/>
+    <path d="M9,3.814 L9,15.002 L11.969,12.136 L12.129,11.997 L17.165,11.997 L9,3.814 z" fill="#000000" id="point"/>
+    <g>
+      <path d="M25.794,19.5 L25.794,19.5 C28.278,23.84 26.772,29.255 22.5,31.794 L22.5,31.794 L18,24 L25.794,19.5 z" fill="#2157DC"/>
+      <path d="M10.206,28.5 L10.206,28.5 C12.723,32.821 18.165,34.224 22.5,31.794 L22.5,31.794 L18,24 L10.206,28.5 z" fill="#39B6F8"/>
+      <path d="M25.794,19.5 L25.794,19.5 C23.277,15.179 17.835,13.776 13.5,16.206 L13.5,16.206 L18,24 L25.794,19.5 z" fill="#39B6F8"/>
+      <path d="M10.206,28.5 L10.206,28.5 C7.722,24.16 9.228,18.745 13.5,16.206 L13.5,16.206 L18,24 L10.206,28.5 z" fill="#2157DC"/>
+    </g>
+  </g>
+  <g id="Layer_2" opacity="0.665">
+    <path d="M18,33 C13.029,33 9,28.971 9,24 C9,19.029 13.029,15 18,15 C22.971,15 27,19.029 27,24 C27,28.971 22.971,33 18,33 z" fill="url(#Gradient_1)"/>
   </g>
 </svg>
