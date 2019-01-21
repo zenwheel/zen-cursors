@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="35" height="35" viewBox="0, 0, 35, 35">
+  <g id="Background">
+    <rect x="0" y="0" width="35" height="35" fill="#000000" fill-opacity="0"/>
+  </g>
+  <g id="Page-1">
+    <path d="M17,24.47 L17,25 L26,25 L26,15 L17,15 L17,15.427 L17,24.47 z" fill="#FFFFFF" id="list-border"/>
+    <path d="M18.084,24.096 L14.479,25.631 L9.797,14.542 L13.484,12.989 L18.084,24.096 z" fill="#FFFFFF" id="stem-border"/>
+    <path d="M9,23.422 L9,7.407 L20.591,19.026 L13.81,19.026 L13.399,19.15 L9,23.422 z" fill="#FFFFFF" id="point-border"/>
+    <path d="M24,19 L19,19 L19,18 L24,18 L24,19 z M24,21 L19,21 L19,20 L24,20 L24,21 z M24,23 L19,23 L19,22 L24,22 L24,23 z M18,24 L25,24 L25,16 L18,16 L18,24 z" fill="#000000" id="list"/>
+    <path d="M16.751,23.416 L14.907,24.19 L11.807,16.816 L13.648,16.041 L16.751,23.416 z" fill="#FF0200" id="stem"/>
+    <path d="M10,9.814 L10,21.002 L12.969,18.136 L13.397,17.997 L18.165,17.997 L10,9.814 z" fill="#FF0200" id="point"/>
+  </g>
+</svg>

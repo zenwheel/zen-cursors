@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="35" height="35" viewBox="0, 0, 35, 35">
+  <g id="Background">
+    <rect x="0" y="0" width="35" height="35" fill="#000000" fill-opacity="0"/>
+  </g>
+  <defs>
+    <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="18" y1="15" x2="18" y2="33">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.56"/>
+      <stop offset="0.794" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Page-1">
+    <path d="M8,17.422 L8,1.407 L19.591,13.026 L12.55,13.026 L12.399,13.15 L8,17.422 z" fill="#FFFFFF" id="point-border"/>
+    <path d="M9,3.814 L9,15.002 L11.969,12.136 L12.129,11.997 L17.165,11.997 L9,3.814 z" fill="#FF0200" id="point"/>
+    <g>
+      <path d="M26.693,21.671 L26.693,21.671 C27.969,26.506 25.113,31.347 20.33,32.693 L20.329,32.693 L18,24 L26.693,21.671 z" fill="#2157DC"/>
+      <path d="M9.307,26.329 L9.307,26.33 C10.62,31.155 15.514,33.919 20.329,32.693 L20.329,32.693 L18,24 L9.307,26.329 z" fill="#39B6F8"/>
+      <path d="M26.693,21.671 L26.693,21.67 C25.38,16.845 20.486,14.081 15.671,15.307 L15.671,15.307 L18,24 L26.693,21.671 z" fill="#39B6F8"/>
+      <path d="M9.307,26.329 L9.307,26.329 C8.031,21.494 10.887,16.653 15.67,15.307 L15.671,15.307 L18,24 L9.307,26.329 z" fill="#2157DC"/>
+    </g>
+  </g>
+  <g id="Layer_2" opacity="0.665">
+    <path d="M18,33 C13.029,33 9,28.971 9,24 C9,19.029 13.029,15 18,15 C22.971,15 27,19.029 27,24 C27,28.971 22.971,33 18,33 z" fill="url(#Gradient_1)"/>
+  </g>
+</svg>
