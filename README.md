@@ -10,4 +10,4 @@ cd zen-cursors-theme/
 ./build.sh
 ```
 
-The respective cursor icons are then generated and saved to both the `Numix-Cursor{-Light}` folders.
+The respective cursor icons are then generated and saved to both the `zen-cursors` or `zen-red-cursors` folders.
