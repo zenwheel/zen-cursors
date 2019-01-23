@@ -1,3 +1,6 @@
 build/*
 zen-cursors/*
 zen-red-cursors/*
+zen-shadow-cursors/*
+zen-shadow-red-cursors/*
+*.tar.gz
