@@ -203,7 +203,7 @@ echo -e "\\033[0KCopying Theme Index... DONE"
 
 echo -ne "Creating archives...\\r"
 for variant in $OUTPUT_BASE $OUTPUT_RED $OUTPUT_SHADOW $OUTPUT_SHADOW_RED; do
-	echo -e "\\033[0KCreating archives... $variant"
+	echo -ne "\\033[0KCreating archives... $variant\\r"
 	tar czf "$variant.tar.gz" "$variant"
 done
 echo -e "\\033[0KCreating archives... DONE"
