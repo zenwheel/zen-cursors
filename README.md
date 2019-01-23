@@ -1,6 +1,9 @@
 # Zen Cursors Theme
 A cursor theme based on icons from the macOS. Code and assets licensed under the MIT license.
 
+Based off build process from numix-cursor-theme
+https://github.com/numixproject/numix-cursor-theme.git combined with the mac-cursors svg files from https://github.com/daviddarnes/mac-cursors
+
 ### Building
 To build the themes from source you'll need Inkscape and xcursorgen installed. Then run the following in a terminal:
 
