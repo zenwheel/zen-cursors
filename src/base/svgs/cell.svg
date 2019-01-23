@@ -3,9 +3,9 @@
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="cell">
-            <g id="bg-copy" fill="#FFFFFF" opacity="0.00999999978">
-                <rect id="bg" x="0" y="0" width="35" height="35"></rect>
-            </g>
+            <g id="Background">
+   				 <rect x="0" y="0" width="35" height="35" fill="#000000" fill-opacity="0"/>
+ 			</g>
             <path d="M18.992,24 L15.012,24 L15.012,10 L18.992,10 L18.992,24 Z" id="line-vertical-border" fill="#000000"></path>
             <path d="M10,15.005 L23.985,15.005 L23.985,18.985 L10,18.985 L10,15.005 Z" id="line-horizontal-border" fill="#000000"></path>
             <path d="M17.969,23 L16,23 L16,11.014 L17.969,11.014 L17.969,23 Z" id="line-vertical" fill="#FFFFFF"></path>

@@ -3,9 +3,9 @@
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="contextualmenu">
-            <g id="bg-copy" fill="#FFFFFF" opacity="0.00999999978">
-                <rect id="bg" x="0" y="0" width="35" height="35"></rect>
-            </g>
+            <g id="Background">
+   				 <rect x="0" y="0" width="35" height="35" fill="#000000" fill-opacity="0"/>
+ 			</g>
             <path d="M17,24.4697 L17,24.9997 L26,24.9997 L26,14.9997 L17,14.9997 L17,15.4267 L17,24.4697 Z" id="list-border" fill="#FFFFFF"></path>
             <path d="M18.0845,24.0962 L14.4795,25.6312 L9.7975,14.5422 L13.4835,12.9892 L18.0845,24.0962 Z" id="stem-border" fill="#FFFFFF"></path>
             <path d="M9,23.4219 L9,7.4069 L20.591,19.0259 L13.81,19.0259 L13.399,19.1499 L9,23.4219 Z" id="point-border" fill="#FFFFFF"></path>
